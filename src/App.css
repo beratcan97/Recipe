@@ -1,0 +1,29 @@
+.border {
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 1rem;
+}
+.header {
+  border: 1px solid black;
+  width: 100%;
+  padding: 1rem;
+  background-color: lightblue;
+}
+.footerIcons {
+  width: 24px;
+  height: 24px;
+}
+.cardContainer {
+  width: 18rem;
+  margin: auto;
+}
+.popUp {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  background-color: whitesmoke;
+}
+.displayNon {
+  display: none;
+}
